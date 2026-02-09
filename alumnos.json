@@ -1,0 +1,37 @@
+[
+  {
+    "NIA": 1024,
+    "Nombre": "Adrián",
+    "Apellido": "García",
+    "ciclo": "DAW",
+    "aula": "A-21"
+  },
+  {
+    "NIA": 1005,
+    "Nombre": "Lucía",
+    "Apellido": "Fernández",
+    "ciclo": "DAM",
+    "aula": "B-10"
+  },
+  {
+    "NIA": 1050,
+    "Nombre": "Marcos",
+    "Apellido": "Sanz",
+    "ciclo": "DAW",
+    "aula": "A-21"
+  },
+  {
+    "NIA": 1012,
+    "Nombre": "Elena",
+    "Apellido": "Belmonte",
+    "ciclo": "ASIR",
+    "aula": "C-05"
+  },
+  {
+    "NIA": 1033,
+    "Nombre": "Pablo",
+    "Apellido": "Jiménez",
+    "ciclo": "DAM",
+    "aula": "B-10"
+  }
+]
