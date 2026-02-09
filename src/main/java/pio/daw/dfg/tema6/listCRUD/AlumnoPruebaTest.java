@@ -6,7 +6,7 @@ public class AlumnoPruebaTest {
 		// TODO Auto-generated method stub
 
 		AlumnoDAOImplementacion daoAlumnos= new AlumnoDAOImplementacion(); 
-		 
+		 //Hola que tal
 	}
 
 }
