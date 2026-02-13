@@ -1,0 +1,22 @@
+[
+  { "codigo": 1, "nombre": "Robert Lewandowski", "nombre_equipo": "FC Barcelona", "goles": 14 },
+  { "codigo": 2, "nombre": "Jude Bellingham", "nombre_equipo": "Real Madrid", "goles": 16 },
+  { "codigo": 3, "nombre": "Antoine Griezmann", "nombre_equipo": "Atlético de Madrid", "goles": 11 },
+  { "codigo": 4, "nombre": "Artem Dovbyk", "nombre_equipo": "Girona FC", "goles": 14 },
+  { "codigo": 5, "nombre": "Borja Mayoral", "nombre_equipo": "Getafe CF", "goles": 15 },
+  { "codigo": 6, "nombre": "Vinícius Júnior", "nombre_equipo": "Real Madrid", "goles": 12 },
+  { "codigo": 7, "nombre": "Alvaro Morata", "nombre_equipo": "Atlético de Madrid", "goles": 13 },
+  { "codigo": 8, "nombre": "Ante Budimir", "nombre_equipo": "CA Osasuna", "goles": 14 },
+  { "codigo": 9, "nombre": "Gorka Guruzeta", "nombre_equipo": "Athletic Club", "goles": 11 },
+  { "codigo": 10, "nombre": "Alexander Sørloth", "nombre_equipo": "Villarreal CF", "goles": 13 },
+  { "codigo": 11, "nombre": "Hugo Duro", "nombre_equipo": "Valencia CF", "goles": 10 },
+  { "codigo": 12, "nombre": "Iñaki Williams", "nombre_equipo": "Athletic Club", "goles": 9 },
+  { "codigo": 13, "nombre": "Gerard Moreno", "nombre_equipo": "Villarreal CF", "goles": 10 },
+  { "codigo": 14, "nombre": "Lamine Yamal", "nombre_equipo": "FC Barcelona", "goles": 4 },
+  { "codigo": 15, "nombre": "Takefusa Kubo", "nombre_equipo": "Real Sociedad", "goles": 7 },
+  { "codigo": 16, "nombre": "Mikel Oyarzabal", "nombre_equipo": "Real Sociedad", "goles": 8 },
+  { "codigo": 17, "nombre": "Joselu Mato", "nombre_equipo": "Real Madrid", "goles": 8 },
+  { "codigo": 18, "nombre": "Sávio Moreira", "nombre_equipo": "Girona FC", "goles": 8 },
+  { "codigo": 19, "nombre": "Youssef En-Nesyri", "nombre_equipo": "Sevilla FC", "goles": 10 },
+  { "codigo": 20, "nombre": "Willian José", "nombre_equipo": "Real Betis", "goles": 8 }
+]

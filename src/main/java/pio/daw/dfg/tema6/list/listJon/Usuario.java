@@ -3,13 +3,13 @@ package pio.daw.dfg.tema6.list.listJon;
 public class Usuario implements Comparable<Usuario>{
 	private String dni;
 	private String nombre;
-	private String apellido; 
+	private String email; 
 	
-	public Usuario(String dni,String nombre, String apellido) {
+	public Usuario(String dni,String nombre, String email) {
 		super();
 		this.dni = dni;
 		this.nombre = nombre;
-		this.apellido = apellido;
+		this.email = email;
 	}
 	public Usuario(String DNI) {
 		super();
@@ -30,12 +30,12 @@ public class Usuario implements Comparable<Usuario>{
 		this.nombre = nombre;
 	}
 
-	public String getapellido() {
-		return apellido;
+	public String getemail() {
+		return email;
 	}
 
-	public void setapellido(String email) {
-		this.apellido = apellido;
+	public void setemail(String email) {
+		this.email = email;
 	}
 
 	public int compareTo(Usuario otroUsuarioAComparar) {
@@ -44,6 +44,6 @@ public class Usuario implements Comparable<Usuario>{
 	}
 	@Override
 	public String toString() {
-	    return "Usuario [DNI=" + dni + ", nombre=" + nombre + ", apellido=" + apellido + "]";
+	    return "Usuario [DNI=" + dni + ", nombre=" + nombre + ", email=" + email + "]";
 	}
 }
